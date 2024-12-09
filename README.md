@@ -38,7 +38,7 @@ Brief Bot is an interactive chatbot designed to transform the way students engag
    source env/bin/activate 
 
 
-##🎯 Purpose
+## 🎯 Purpose
 Brief Bot is tailored for students to:
 
 Simplify their interaction with academic materials.
