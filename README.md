@@ -27,7 +27,7 @@ Brief Bot is an interactive chatbot designed to transform the way students engag
 ## 🚀 How to Run Locally
 
 1. **Clone the Repository**:
-   ```
+   ```bash
    git clone https://github.com/rakshi001/BriefBot.git
    cd BriefBot
 
