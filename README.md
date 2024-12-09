@@ -31,3 +31,28 @@ Brief Bot is an interactive chatbot designed to transform the way students engag
    git clone https://github.com/rakshi001/BriefBot.git
    cd BriefBot
 
+2. **Set Up Environment:
+   Create a virtual environment:**
+   ```bash
+   python -m venv env
+   source env/bin/activate 
+
+
+##🎯 Purpose
+Brief Bot is tailored for students to:
+
+Simplify their interaction with academic materials.
+Save time by directly querying PDFs without unnecessary distractions.
+Enhance the educational experience with AI-driven insights.
+
+##📌 Future Enhancements
+Support for additional file formats (e.g., Word documents).
+Advanced NLP features for summarization and keyword extraction.
+Multi-language support for global accessibility.
+
+##🤝 Contributions
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the tool.
+
+##🌐 Live Demo
+Visit the hosted app here: https://briefbot-lnktgmpdknpuqgcjq3qscd.streamlit.app/🎯 
+
