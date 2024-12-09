@@ -36,13 +36,13 @@ Brief Bot is an interactive chatbot designed to transform the way students engag
    ```bash
    python -m venv env
    source env/bin/activate 
-3. *Configure your own API key
+3. Configure your own API key
    
-   **GOOGLE_API_KEY=your_google_gemini_api_key** *
+   **GOOGLE_API_KEY=your_google_gemini_api_key** 
 
-5. *Run Locally
+5. Run Locally
    
-   **streamlit run app.py** *
+   **streamlit run app.py** 
 
 ## 🎯 Purpose
 Brief Bot is tailored for students to:
