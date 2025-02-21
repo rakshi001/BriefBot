@@ -60,5 +60,5 @@ Multi-language support for global accessibility.
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the tool.
 
 ## 🌐 Live Demo
-Visit the hosted app here: https://briefbot-lnktgmpdknpuqgcjq3qscd.streamlit.app/🎯 
+Visit the hosted app here: https://briefbot-lnktgmpdknpuqgcjq3qscd.streamlit.app
 
